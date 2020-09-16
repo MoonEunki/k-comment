@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "k-comment",
+  "description": "Hide non-Korean comments on YouTube",
+  "version": "1.0.1",
+
+  "icons": {
+    "128": "icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/watch?v=*"],  
+      "all_frames": true,
+      "js": ["./comment.js"],  
+      "run_at": "document_end" 
+    }
+  ],
+  
+  "permissions": []
+
+}
