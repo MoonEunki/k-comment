@@ -8,7 +8,7 @@
 
 ## 실행 예시
 
-[https://www.youtube.com/watch?v=LMdB7nghKxI&feature=youtu.be](https://www.youtube.com/watch?v=LMdB7nghKxI&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMdB7nghKxI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 개발하며 작성한 글
 
