@@ -8,7 +8,7 @@
 
 ## 실행 예시
 
-[크롬 확장프로그램 테스트](https://youtu.be/LMdB7nghKxI)
+[https://www.youtube.com/watch?v=LMdB7nghKxI&feature=youtu.be](https://www.youtube.com/watch?v=LMdB7nghKxI&feature=youtu.be)
 
 ## 개발하며 작성한 글
 
